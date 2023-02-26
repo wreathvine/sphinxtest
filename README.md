@@ -1,4 +1,4 @@
-# exastro-it-automation-docs
+# sphinxtest
 [![RST2HTML](../../actions/workflows/rst2html.yaml/badge.svg?branch=main)](../../actions/workflows/rst2html.yaml) 
 [![pages-build-deployment](../../actions/workflows/pages/pages-build-deployment/badge.svg)](../../actions/workflows/pages/pages-build-deployment) 
 
